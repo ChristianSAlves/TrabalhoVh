@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "783354176581",
+    "project_id": "trabalhofirebasetorugo",
+    "storage_bucket": "trabalhofirebasetorugo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:783354176581:android:9c1aa11589034a23602f2c",
+        "android_client_info": {
+          "package_name": "com.example.trabalhofirebase_vitorhugo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBh2hckEklWEtBL3yf-CRxA9VNI1a5AStM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
